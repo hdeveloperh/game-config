@@ -1,1 +1,8 @@
-
+{
+  "leaderboard_update_interval": 20,
+  "incorrect_names":[],
+  "message":"",
+  "local_update": 1,
+  "update_version": 209,
+  "update_message":"A new version is available!\n\nInstall now to enjoy the latest fixes and improvements."
+}
