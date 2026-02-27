@@ -1,2 +1,5 @@
 /Warehouse/*
   Cache-Control: public, max-age=3600
+
+/Coil/*
+  Cache-Control: public, max-age=4600
